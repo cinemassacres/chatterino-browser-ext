@@ -191,10 +191,14 @@
     if (!errorDiv) return;
  if (errors.osUnsupported) {
      errorDiv.innerHTML =
-       "The Chatterino Native Host browser extension currently only works on WindowsXDDDD.",
-        "Make sure Chatterino version 2.1.1 or later is installed and running on your computer.",
-        "Chatterino 1 is not supported.",
-        "There might be issues with other twitch related extensions." ;
+       "The Chatterino Native Host browser extension currently only works on WindowsXDDDD."
+       "Make sure Chatterino version 2.1.1 or later is installed and running on your computer."
+       "Chatterino 1 is not supported."
+       "There might be issues with other twitch related extensions."
+       
+       
+       
+         ;
 
      return;
     }
