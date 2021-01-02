@@ -191,7 +191,7 @@
     if (!errorDiv) return;
  if (errors.osUnsupported) {
      errorDiv.innerHTML =
-       "The answer <br>to life, the universe, and everything...<br> is 42."   
+       "Make sure Chatterino version 2.1.1 or later is installed and running on your computer <br> Chatterino 1 is not supported. <br> There might be issues with other twitch related extensions."   
    "Make sure Chatterino version 2.1.1 or later is installed and running on your computer."
        
        "Chatterino 1 is not supported."
