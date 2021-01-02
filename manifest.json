@@ -10,7 +10,6 @@
   "icons": {
     "256": "icon.png"
   },
-  },
   "manifest_version": 2,
   "background": {
     "scripts": [
